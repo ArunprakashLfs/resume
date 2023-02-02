@@ -1,11 +1,18 @@
 body{
-    padding: 100px;
+    padding: 50px;
+    background-color:antiquewhite;
 
 }
 header{
     text-align: center;
     background-color: rgb(100, 100, 121);
     -webkit-text-fill-color: blanchedalmond;
+    
+}
+h1{
+    text-decoration: aliceblue;
+    text-transform: initial;
+    padding: 5px;
 }
 h3{
     text-align: center;
